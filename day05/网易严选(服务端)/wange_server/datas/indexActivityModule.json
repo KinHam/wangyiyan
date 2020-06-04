@@ -1,0 +1,34 @@
+[
+  {
+    "zhuti": "新人专享礼",
+    "picUrl": "https://yanxuan.nosdn.127.net/352b0ea9b2d058094956efde167ef852.png",
+    "title": "新人专享礼包",
+    "id": "21932"
+  },
+  {
+    "activityList": [
+      {
+        "backgroundUrl": "",
+        "picUrl": "https://yanxuan-item.nosdn.127.net/093cc020e9b5e1bd6736f7bc72bf9227.png?quality=75&type=webp&imageView&thumbnail=200x200",
+        "activityPrice": "¥69",
+        "subTitle": "今日特价",
+        "originPrice": "¥99",
+        "tag": "今日特价",
+        "title": "福利社",
+        "targetUrl": "https://m.you.163.com/saleCenter/index",
+        "showPicUrl": "https://yanxuan-item.nosdn.127.net/f961b628a67e5a95150b962a48963b6d.png",
+        "id": "21qo1o2"
+      },
+      {
+        "tag": "1元起包邮",
+        "subTitle": "",
+        "activityPrice": "¥1",
+        "originPrice": "¥100",
+        "title": "新人拼团",
+        "picUrl": "https://yanxuan-item.nosdn.127.net/1eecf74b769af3ed4c7817aeb5d6bb2b.png?quality=75&type=webp&imageView&thumbnail=200x200",
+        "targetUrl": "https://m.you.163.com/pin/item/list",
+        "id": "w2q1"
+      }
+    ]
+  }
+]

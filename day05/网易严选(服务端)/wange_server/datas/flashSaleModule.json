@@ -1,0 +1,53 @@
+{
+  "activityPrice": 199,
+  "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/a5486fc786b49e02cb3fc65686ba89f6.png",
+  "nextStartTime": 1581904800000,
+  "name": "限时购",
+  "itemList": [
+    {
+      "itemId": 1625008,
+      "picUrl": "https://yanxuan-item.nosdn.127.net/a5486fc786b49e02cb3fc65686ba89f6.png",
+      "activityPrice": 199,
+      "originPrice": 259,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/c89c4c86c6cb31805bd537d8c772a231.png"
+    },
+    {
+      "itemId": 3529053,
+      "picUrl": "https://yanxuan-item.nosdn.127.net/7d147d6c9f1707f0e0f9b3d825d69775.png",
+      "activityPrice": 599,
+      "originPrice": 799,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/bc869ed5218e472655526a89224a6517.png"
+    },
+    {
+      "itemId": 1116033,
+      "picUrl": "https://yanxuan-item.nosdn.127.net/d96e57a0fad3675e2f88890e64b8cbd9.png",
+      "activityPrice": 1189,
+      "originPrice": 1399,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/91a264d84fed57f97c48dc107370e941.png"
+    },
+    {
+      "itemId": 1009013,
+      "picUrl": "https://yanxuan-item.nosdn.127.net/3bbb65a733f290ca6adf5e7772dd761d.png",
+      "activityPrice": 79,
+      "originPrice": 99,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/3b7a448ea9a148b76e399b699d78f6c5.png"
+    },
+    {
+      "itemId": 3416001,
+      "picUrl": "https://yanxuan-item.nosdn.127.net/9df8cd5635ef6cbe7bbaa008de70caf5.png",
+      "activityPrice": 55.9,
+      "originPrice": 69,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/899d91ae4b28e9bb42d617aa6691276d.png"
+    },
+    {
+      "itemId": 1683007,
+      "picUrl": "https://yanxuan-item.nosdn.127.net/6b642811e46781dea284df964dd0a68b.png",
+      "activityPrice": 239,
+      "originPrice": 299,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/1f93923086cbb7d63be958c920289f05.png"
+    }
+  ],
+  "remainTime": 1178252,
+  "showFlash": true,
+  "flashSaleScreenId": 115102115
+}

@@ -1,0 +1,395 @@
+{
+  "name": "新品首发",
+  "lists": [
+    {
+      "goodCmtCount": 0,
+      "couponConflict": true,
+      "scenePicUrl": "https://yanxuan-item.nosdn.127.net/00672a49574126cce712b9f5d5354391.jpg",
+      "listPicUrl": "https://yanxuan-item.nosdn.127.net/cc66ac0e306d77a241f6fd9ac34b2a00.png",
+      "tagId": 0,
+      "simpleDesc": "轻松手剥，多汁化渣",
+      "primarySkuPreSellPrice": 0,
+      "limitedFlag": 204,
+      "newItemFlag": true,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/0fd9f9e40f287ecfe3b54aaafda914f6.png",
+      "itemTagList": [
+        {
+          "itemId": 3988289,
+          "tagId": 0,
+          "freshmanExclusive": false,
+          "name": "新品",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 1
+        },
+        {
+          "itemId": 3988289,
+          "tagId": 128129559,
+          "freshmanExclusive": false,
+          "name": "特价",
+          "subType": 204,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "54639954",
+          "itemId": "3988289",
+          "materialContentFrom": 1,
+          "materialName": "赏味正当时，春见耙耙柑 5斤",
+          "rcmdSort": false,
+          "taskType": 1,
+          "itemFrom": 0,
+          "crmUserGroupName": "",
+          "resourcesId": 1,
+          "itemIdList": [
+            "3988289"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "54646758"
+        },
+        "modelType": 1
+      },
+      "id": 3988289,
+      "sellVolume": 678,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/0fd9f9e40f287ecfe3b54aaafda914f6.png",
+      "displaySkuId": 300197090,
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "discountFlag": false,
+      "name": "赏味正当时，春见耙耙柑 5斤",
+      "productPlace": "",
+      "counterPrice": 69,
+      "couponPrice": 0,
+      "cutFlag": false,
+      "retailPrice": 59,
+      "primary": true,
+      "status": 2
+    },
+    {
+      "goodCmtCount": 0,
+      "couponConflict": true,
+      "scenePicUrl": "https://yanxuan-item.nosdn.127.net/ed57e215a3a926fbc8577b58fd6463d0.jpg",
+      "listPicUrl": "https://yanxuan-item.nosdn.127.net/e83757662dab293c7af8da0e599a5eb4.png",
+      "tagId": 0,
+      "tag": "618预售",
+      "simpleDesc": "高达30%的免疫球蛋白",
+      "primarySkuPreSellPrice": 0,
+      "limitedFlag": 204,
+      "newItemFlag": true,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/f346d2ec9b751e79e36461fa497f0802.png",
+      "itemTagList": [
+        {
+          "itemId": 3988762,
+          "tagId": 0,
+          "freshmanExclusive": false,
+          "name": "新品",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 1
+        },
+        {
+          "itemId": 3988762,
+          "tagId": 128129529,
+          "freshmanExclusive": false,
+          "name": "特价",
+          "subType": 204,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "54639819",
+          "itemId": "3988762",
+          "materialContentFrom": 1,
+          "materialName": "富含免疫球蛋白，纯牛初乳粉 1克*30袋*2罐",
+          "rcmdSort": false,
+          "taskType": 1,
+          "itemFrom": 0,
+          "crmUserGroupName": "",
+          "resourcesId": 2,
+          "itemIdList": [
+            "3988762"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "54646759"
+        },
+        "modelType": 1
+      },
+      "id": 3988762,
+      "sellVolume": 510,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/f346d2ec9b751e79e36461fa497f0802.png",
+      "displaySkuId": 300198968,
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "discountFlag": false,
+      "name": "富含免疫球蛋白，纯牛初乳粉 1克*30袋*2罐",
+      "productPlace": "",
+      "counterPrice": 399,
+      "couponPrice": 0,
+      "cutFlag": false,
+      "retailPrice": 298,
+      "primary": true,
+      "status": 2
+    },
+    {
+      "goodCmtCount": 0,
+      "couponConflict": true,
+      "scenePicUrl": "https://yanxuan-item.nosdn.127.net/38a509d18e8c388173f560ceb51e00a6.jpg",
+      "listPicUrl": "https://yanxuan-item.nosdn.127.net/ebfdce31ffb1a2c1d297ba4cbc47c99d.png",
+      "tagId": 0,
+      "simpleDesc": "采用紫外灯深层照射水雾，确保水雾纯净清新",
+      "primarySkuPreSellPrice": 0,
+      "limitedFlag": 0,
+      "newItemFlag": true,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/b924f1025d1aa8bc437b97e23201f81a.jpg",
+      "itemTagList": [
+        {
+          "itemId": 3988903,
+          "tagId": 0,
+          "freshmanExclusive": false,
+          "name": "新品",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 1
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "54639955",
+          "itemId": "3988903",
+          "materialContentFrom": 1,
+          "materialName": "【UV紫外线杀菌】水质净化加湿器 5L大容量",
+          "rcmdSort": false,
+          "taskType": 1,
+          "itemFrom": 0,
+          "crmUserGroupName": "",
+          "resourcesId": 3,
+          "itemIdList": [
+            "3988903"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "54646760"
+        },
+        "modelType": 1
+      },
+      "id": 3988903,
+      "sellVolume": 598,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/b924f1025d1aa8bc437b97e23201f81a.jpg",
+      "displaySkuId": 300200082,
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "discountFlag": false,
+      "name": "【UV紫外线杀菌】水质净化加湿器 5L大容量",
+      "productPlace": "",
+      "couponPrice": 0,
+      "cutFlag": false,
+      "retailPrice": 139,
+      "primary": true,
+      "status": 2
+    },
+    {
+      "tag": "618预售",
+      "goodCmtCount": 0,
+      "couponConflict": true,
+      "scenePicUrl": "https://yanxuan-item.nosdn.127.net/22e3d3086c99647e7abb9acf7ec49d88.jpg",
+      "listPicUrl": "https://yanxuan-item.nosdn.127.net/0841f96ee9a6f05bceb358b15cb8da25.png",
+      "tagId": 0,
+      "simpleDesc": "三重玻尿酸深层补水 长效锁水 肌肤水润透白",
+      "primarySkuPreSellPrice": 0,
+      "limitedFlag": 0,
+      "newItemFlag": false,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/c97ed9ccfdf8441a8a6f54727ea149b8.png",
+      "itemTagList": [
+        {
+          "itemId": 3987388,
+          "tagId": 0,
+          "freshmanExclusive": false,
+          "name": "满88顺丰包邮",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 0
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "54639456",
+          "itemId": "3987388",
+          "materialContentFrom": 1,
+          "materialName": "敷出水润仙女肌 西班牙玻尿酸深层补水面膜",
+          "rcmdSort": false,
+          "taskType": 1,
+          "itemFrom": 0,
+          "crmUserGroupName": "",
+          "resourcesId": 4,
+          "itemIdList": [
+            "3987388"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "54646761"
+        },
+        "modelType": 1
+      },
+      "id": 3987388,
+      "sellVolume": 236,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/c97ed9ccfdf8441a8a6f54727ea149b8.png",
+      "displaySkuId": 300192878,
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "discountFlag": false,
+      "name": "敷出水润仙女肌 西班牙玻尿酸深层补水面膜",
+      "productPlace": "",
+      "couponPrice": 0,
+      "cutFlag": false,
+      "retailPrice": 159,
+      "primary": true,
+      "status": 2
+    },
+    {
+      "goodCmtCount": 0,
+      "couponConflict": true,
+      "scenePicUrl": "https://yanxuan-item.nosdn.127.net/7e47621006f247f02601bf96e407c96c.png",
+      "listPicUrl": "https://yanxuan-item.nosdn.127.net/dc413d2d5e81dc11997b8a0ca0abab2f.png",
+      "tagId": 0,
+      "simpleDesc": "99.99%高效环保杀菌，每天都用新牙刷！",
+      "primarySkuPreSellPrice": 0,
+      "limitedFlag": 0,
+      "newItemFlag": true,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/d691b12d383ea93c2108a383e2b1d3cc.png",
+      "itemTagList": [
+        {
+          "itemId": 3988892,
+          "tagId": 0,
+          "freshmanExclusive": false,
+          "name": "新品",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 1
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "54640059",
+          "itemId": "3988892",
+          "materialContentFrom": 1,
+          "materialName": "不要把病菌刷到嘴里，紫外线牙刷消毒收纳架",
+          "rcmdSort": false,
+          "taskType": 1,
+          "itemFrom": 0,
+          "crmUserGroupName": "",
+          "resourcesId": 6,
+          "itemIdList": [
+            "3988892"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "54646763"
+        },
+        "modelType": 1
+      },
+      "id": 3988892,
+      "sellVolume": 687,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/d691b12d383ea93c2108a383e2b1d3cc.png",
+      "displaySkuId": 300199920,
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "discountFlag": false,
+      "name": "不要把病菌刷到嘴里，紫外线牙刷消毒收纳架",
+      "productPlace": "",
+      "couponPrice": 0,
+      "cutFlag": false,
+      "retailPrice": 298,
+      "primary": true,
+      "status": 2
+    },
+    {
+      "tag": "618预售",
+      "goodCmtCount": 0,
+      "couponConflict": true,
+      "scenePicUrl": "https://yanxuan-item.nosdn.127.net/d421db66d7dd061ededcc2bc430780e4.jpg",
+      "listPicUrl": "https://yanxuan-item.nosdn.127.net/5b8a31f4fa0045defafbd54c60f7346c.png",
+      "tagId": 0,
+      "simpleDesc": "泰国进口，绵密香醇",
+      "primarySkuPreSellPrice": 0,
+      "limitedFlag": 204,
+      "newItemFlag": false,
+      "showPicUrl": "https://yanxuan-item.nosdn.127.net/190ef99484d669354838b4f37e0dd336.png",
+      "itemTagList": [
+        {
+          "itemId": 3986150,
+          "tagId": 128129527,
+          "freshmanExclusive": false,
+          "name": "特价",
+          "subType": 204,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "54639236",
+          "itemId": "3986150",
+          "materialContentFrom": 1,
+          "materialName": "冰封住的绵密香甜，泰国金枕榴莲冻肉 300克",
+          "rcmdSort": false,
+          "taskType": 1,
+          "itemFrom": 0,
+          "crmUserGroupName": "",
+          "resourcesId": 7,
+          "itemIdList": [
+            "3986150"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "54646764"
+        },
+        "modelType": 1
+      },
+      "id": 3986150,
+      "sellVolume": 7901,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/5b8a31f4fa0045defafbd54c60f7346c.png",
+      "displaySkuId": 300185954,
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "discountFlag": false,
+      "name": "冰封住的绵密香甜，泰国金枕榴莲冻肉 300克",
+      "productPlace": "泰国",
+      "counterPrice": 68,
+      "couponPrice": 0,
+      "cutFlag": false,
+      "retailPrice": 63,
+      "primary": true,
+      "status": 2
+    }
+  ]
+}
