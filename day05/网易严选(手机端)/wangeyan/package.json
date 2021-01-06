@@ -39,7 +39,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "nprogress": "^0.2.0",
     "swiper": "^5.4.1",
     "vant": "^2.8.4",
